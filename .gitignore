@@ -1,0 +1,8 @@
+Makefile*
+**/*.workspace
+tags*
+*codelite/
+**/Debug/
+*.mk
+*.project
+
